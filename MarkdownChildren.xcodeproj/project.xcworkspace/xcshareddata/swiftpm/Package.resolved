@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MarkdownChildrenKit",
+        "repositoryURL": "https://github.com/patrickbdev/MarkdownChildrenKit",
+        "state": {
+          "branch": null,
+          "revision": "2c7754837c8ccc3678c26da0d876ce2a026f5932",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "swift-argument-parser",
+        "repositoryURL": "https://github.com/apple/swift-argument-parser",
+        "state": {
+          "branch": null,
+          "revision": "6b2aa2748a7881eebb9f84fb10c01293e15b52ca",
+          "version": "0.5.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
