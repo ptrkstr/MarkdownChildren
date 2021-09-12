@@ -72,4 +72,4 @@ Visit [releases](https://github.com/patrickbdev/MarkdownChildren/releases) and d
 ## TODO
 
 - [ ] Use github actions to create downloadable releases  
-- [ ] Best way to provide version info via `-v`
+- [ ] Research best way to provide version info via `-v`
