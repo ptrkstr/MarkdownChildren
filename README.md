@@ -1,10 +1,13 @@
-# MarkdownChildren
-
-<p align="center">
+<div align="center">
     <img src="https://raw.githubusercontent.com/patrickbdev/MarkdownChildrenKit/develop/Assets/logo/logo.svg" width="320pt" alt="Markdown Logo with list">
-    <br>
-    A command line tool wrapper around <a href="https://github.com/patrickbdev/MarkdownChildrenKit">MarkdownChildrenKit</a>
-</p>
+    <h1 style="border-bottom: none">
+      MarkdownChildren
+    </h1>
+  	<p>
+    	A command line tool wrapper around <a href="https://github.com/patrickbdev/MarkdownChildrenKit">MarkdownChildrenKit</a>
+  	</p>
+</div>
+
 
 
 ## Example
@@ -18,16 +21,16 @@ My favourite things are:
 
 <details>
     <summary>AND it's in this directory</summary>
-    
+
 <img src="https://raw.githubusercontent.com/patrickbdev/MarkdownChildrenKit/develop/Assets/readme/given.png" height="300pt" alt="Directory of files and folders">
 </details>
 
 <details>
     <summary>WHEN MarkdownChildren is invoked</summary>
-    
+
 ```bash
 MarkdownChildren ~/readme.md -n useH1
-``` 
+```
 </details>
 
 THEN the readme.md turns into:
